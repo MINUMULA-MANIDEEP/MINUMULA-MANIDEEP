@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MINUMULA-MANIDEEP
 - 👀 I’m interested in Web development,Software development
-- 🌱 I’m currently learning SQL,JavaScript
+- 🌱 I’m currently learning python Fullstack
 - 💞️ I’m looking to collaborate on Projects related Front-end Web development
 - 📫 How to reach me -manideepminumula123@gmail.com
 - 😄 Pronouns: ...
